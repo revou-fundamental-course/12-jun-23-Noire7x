@@ -105,3 +105,25 @@ p {
 	margin-top: 10px;
 	color: #fff;
 }
+
+footer {
+	position: absolute;
+	bottom: 0;
+	height: 20px;
+	width: 100%;
+	padding: 10px;
+	background-color: #00940c;
+	color: #19242b;
+	font-size: 0.75rem;
+	letter-spacing: 0.1em;
+  }
+  
+  footer a {
+	color: #1d2a32;
+  }
+  
+  footer a:hover {
+	color: #0a0094;
+	font-style: italic;
+	font-weight: bold;
+  }
